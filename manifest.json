@@ -36,8 +36,9 @@
     "storage",
     "activeTab",
     "tabs",
-    "<all_urls>"
+    "*://music.youtube.com/*"
     ]
 
 }
+
 
